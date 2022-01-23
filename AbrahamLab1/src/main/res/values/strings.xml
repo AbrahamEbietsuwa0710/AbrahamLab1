@@ -1,0 +1,7 @@
+<!--Abraham Ebietsuwa N01420710 RNB Assignment 1 -->
+
+<resources>
+    <string name="app_name">Abraham Ebietsuwa N01420710</string>
+    <string name="btn_label">Button</string>
+    <string name="tv_label">Hello World!</string>
+</resources>
